@@ -27,7 +27,7 @@ meteor@1.1.10
 minimongo@1.0.10
 mongo@1.1.3
 mongo-id@1.0.1
-nevtep:blockchain-websockets@0.0.4
+germanf:blockchain-ws@0.0.5
 npm-mongo@1.4.39_1
 observe-sequence@1.0.7
 ordered-dict@1.0.4
