@@ -4,7 +4,7 @@ This is a simple wrapper for the Blockchain.info Websocket API. The goal is to m
 
 ## Installation
 ```
-meteor add mjr:blockchain-websockets
+meteor add germanf:blockchain-ws
 
 ```
 
